@@ -5,16 +5,16 @@
 
 <!-- TYPING ANIMATION via readme-typing-svg -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=CBA6F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+ML+Practitioner;Building+reliable+%26+secure+systems;Python+%C2%B7+Node.js+%C2%B7+Scikit-learn+%C2%B7+Docker;CNAM+Paris+%E2%80%94+Mention+Tr%C3%A8s+Bien+(16.97%2F20);Sousse%2C+Tunisia+%E2%86%92+France+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=CBA6F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+ML+Practitioner;Building+reliable+%26+secure+systems;Python+%C2%B7+Node.js+%C2%B7+Scikit-learn+%C2%B7+Docker;CNAM+Paris+%E2%80%94+Mention+Tr%C3%A8s+Bien;Sousse%2C+Tunisia" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oumaima--souguir-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumaima-souguir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oumaimaprofile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumaimaprofile)
 [![Email](https://img.shields.io/badge/Email-souguir.oumaima%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:souguir.oumaima@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-oumaima--souguir.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://oumaima-souguir.vercel.app)
-![Location](https://img.shields.io/badge/Location-Sousse%2C+Tunisia-89b4fa?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Sousse%2CTunisia-89b4fa?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -26,8 +26,8 @@
 profile = {
     "name"       : "Oumaima Souguir",
     "role"       : "Software Engineer · ML Practitioner · Security-Aware Dev",
-    "education"  : "Licence Informatique — CNAM Paris (16.97/20, Mention Très Bien)",
-    "location"   : "Sousse, Tunisia → targeting France 2026",
+    "education"  : "Licence Informatique — CNAM Paris",
+    "location"   : "Sousse, Tunisia",
     "languages"  : ["Arabic (native)", "French (professional)", "English C1", "German B2"],
     "interests"  : ["ML systems", "Secure APIs", "Edge AI", "MLOps"],
     "status"     : "Open to engineering opportunities 🟢",
@@ -42,7 +42,7 @@ profile = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [`churn-prediction-ml`](https://github.com/oumaima-souguir/churn-prediction-ml)
+### 🤖 [`churn-prediction-ml`](https://github.com/OumaimaSouguir158/Prediction_Churn)
 
 Telecom churn prediction pipeline — 3 models compared, cross-validation, SHAP explanations.
 
@@ -59,7 +59,7 @@ Telecom churn prediction pipeline — 3 models compared, cross-validation, SHAP 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [`library-management-system`](https://github.com/oumaima-souguir/library-management-system)
+### 🌐 [`library-management-system`](https://github.com/OumaimaSouguir158/University-Library)
 
 Full-stack university library system — from UML design to Docker deployment.
 
@@ -78,7 +78,7 @@ Full-stack university library system — from UML design to Docker deployment.
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [`network-ids-python`](https://github.com/oumaima-souguir/network-ids-python)
+### 🔐 [`network-ids-python`](https://github.com/OumaimaSouguir158/Projet2_Detection_Anomalies_Reseau)
 
 Snort IDS deployment + automated Python log analysis pipeline.
 
@@ -94,7 +94,7 @@ Snort IDS deployment + automated Python log analysis pipeline.
 </td>
 <td width="50%" valign="top">
 
-### 🚧 [`predictflow`](https://github.com/oumaima-souguir/predictflow) *(in progress)*
+### 🚧 [`predictflow`](https://github.com/OumaimaSouguir158/predictflow) *(in progress)*
 
 Production ML deployment pipeline — notebook → API → monitoring.
 
@@ -156,6 +156,8 @@ Production ML deployment pipeline — notebook → API → monitoring.
 
 9c3d5f1  Full-Stack Intern @ IT Gate, Sousse (Jun–Jul 2022)
          └─ Angular 13 · Node.js · MongoDB · OAuth 2.0 · RSA/AES
+b4e1f9a  Application Security Intern @ Lab-IT, Sousse (Sep–Nov 2021)
+         └─ JWT/OAuth 2.0 · NGINX/SSL config · pentest basics · 50%
 ```
 
 ---
@@ -206,11 +208,11 @@ Production ML deployment pipeline — notebook → API → monitoring.
 <br/>
 
 <sub>
-  <code>Sousse, Tunisia → France 2026</code>
+  <code>Sousse, Tunisia</code>
   &nbsp;·&nbsp;
   <code>Open to Software Engineering · AI/ML · Security roles</code>
   &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/oumaima-souguir">LinkedIn</a>
+  <a href="https://linkedin.com/in/oumaimaprofile">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:souguir.oumaima@hotmail.com">Email</a>
 </sub>
