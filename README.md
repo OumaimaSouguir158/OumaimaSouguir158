@@ -160,26 +160,6 @@ b4e1f9a  Application Security Intern @ Lab-IT, Sousse (Sep–Nov 2021)
          └─ JWT/OAuth 2.0 · NGINX/SSL config · pentest basics · 50%
 ```
 
----
-
-## `$ cat metrics.json`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=oumaima-souguir&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github" alt="GitHub stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima-souguir&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=7" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima-souguir&theme=tokyo-night&hide_border=true&area=true&area_color=cba6f7&color=cdd6f4&line=cba6f7&point=89b4fa" alt="Contribution graph" width="100%"/>
-
-</div>
-
----
-
 ## `$ echo $LANGUAGES`
 
 <div align="center">
@@ -192,21 +172,9 @@ b4e1f9a  Application Security Intern @ Lab-IT, Sousse (Sep–Nov 2021)
 
 ---
 
-<div align="center">
-
-<!-- SNAKE ANIMATION — enable via GitHub Actions workflow below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/oumaima-souguir/oumaima-souguir/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/oumaima-souguir/oumaima-souguir/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation"
-    src="https://raw.githubusercontent.com/oumaima-souguir/oumaima-souguir/output/github-contribution-grid-snake.svg"/>
-</picture>
-
 <br/>
 <br/>
-
+<div>
 <sub>
   <code>Sousse, Tunisia</code>
   &nbsp;·&nbsp;
