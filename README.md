@@ -13,7 +13,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oumaimaprofile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumaimaprofile)
 [![Email](https://img.shields.io/badge/Email-souguir.oumaima%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:souguir.oumaima@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/[Portfolio-oumaima--souguir.vercel.app](https://portfolio-l84u.vercel.app/)-000000?style=flat-square&logo=vercel&logoColor=white)]([https://oumaima-souguir.vercel.app](https://portfolio-l84u.vercel.app/))
+
 ![Location](https://img.shields.io/badge/Location-Sousse%2CTunisia-89b4fa?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
